@@ -1,2 +1,2 @@
 # Motor_Skills_Rehabilitation_Game
-Tracing Game with 3 levels with different difficulties to simulate fine motor control needed for daily tasks. Designed to try to rehabilitate motor function in injured or rehabilitating users.
+Developed a precision-based mouse movement game that aimed to aid motor function recovery in injured or rehabilitating users. I designed and implemented collision logic, movement constraints, and time-based challenges to simulate fine motor control situations. I used geometric boundary detection, custom animation, and event-based game state logic for responsive and interactive gameplay.
